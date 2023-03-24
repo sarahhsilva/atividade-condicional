@@ -1,0 +1,15 @@
+*{
+    margin: 4px;
+    background-color: rgb(255, 255, 255);
+}
+.cabeçalho{
+    font-size: 24px;
+}
+.content{
+    font-size: 18px;
+    padding: 0%;
+}
+.button{
+    padding: 1.0px;
+    font-size: 19px;
+}
